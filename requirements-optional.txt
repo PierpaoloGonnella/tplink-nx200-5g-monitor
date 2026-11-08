@@ -1,2 +1,2 @@
 # Solo per nx200_monitor.py (client alternativo) e experiments/nx200_monitor_lib.py
-tplinkrouterc6u>=5.0.0
+tplinkrouterc6u>=5.38.0
